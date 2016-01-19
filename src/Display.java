@@ -1,3 +1,7 @@
+/** 
+ * @author Thomas Hayden
+ */
+
 import java.awt.Color;
 import java.awt.EventQueue;
 import java.awt.Font;
